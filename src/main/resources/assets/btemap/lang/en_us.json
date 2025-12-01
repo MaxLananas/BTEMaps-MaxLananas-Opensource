@@ -1,0 +1,9 @@
+{
+  "key.btemap.open_map": "Open Map",
+  "category.btemap.general": "BTE Map",
+  "screen.btemap.map": "🗺️ BTE Map",
+  "button.btemap.teleport": "🚀 Teleport Here",
+  "button.btemap.provider": "Change Map",
+  "text.btemap.coordinates": "Coordinates",
+  "text.btemap.loading": "Loading..."
+}

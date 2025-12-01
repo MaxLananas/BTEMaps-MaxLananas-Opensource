@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "btemap",
+  "version": "1.0.0",
+  "name": "BTE Map",
+  "description": "Interactive map for Build The Earth",
+  "authors": ["MaxLananas"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.maxlananas.btemap.BteMap"],
+    "client": ["com.maxlananas.btemap.client.BteMapClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric": "*",
+    "minecraft": ">=1.21.4",
+    "java": ">=21"
+  }
+}

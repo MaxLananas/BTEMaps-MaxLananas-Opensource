@@ -1,0 +1,9 @@
+{
+  "key.btemap.open_map": "Ouvrir la carte",
+  "category.btemap.general": "BTE Map",
+  "screen.btemap.map": "🗺️ Carte BTE",
+  "button.btemap.teleport": "🚀 Se téléporter ici",
+  "button.btemap.provider": "Changer de carte",
+  "text.btemap.coordinates": "Coordonnées",
+  "text.btemap.loading": "Chargement..."
+}
